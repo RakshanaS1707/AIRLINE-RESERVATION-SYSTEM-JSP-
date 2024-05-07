@@ -26,6 +26,7 @@ TECHNOLOGIES:
 
 
 #OUTPUT
+
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/8d5f5242-d73d-4efb-9b69-d2b7f53d6082)
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/5fec1c30-e33f-44f0-9b79-201bfae34576)
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/4d8505a0-4b30-4b0f-a1e2-b0bab7e3e1de)
