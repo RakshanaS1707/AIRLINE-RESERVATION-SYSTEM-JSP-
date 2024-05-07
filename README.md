@@ -23,6 +23,8 @@ TECHNOLOGIES:
 •	SERVLET
 •	CSS
 •	JQUERY
+
+
 #OUTPUT
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/8d5f5242-d73d-4efb-9b69-d2b7f53d6082)
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/5fec1c30-e33f-44f0-9b79-201bfae34576)
@@ -35,10 +37,18 @@ TECHNOLOGIES:
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/5339e6d8-758a-420b-9722-8d7a83581e1f)
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/13b5735f-a279-42ec-8ff8-cbd947f4578b)
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/c7c444a2-53d6-48ad-ba1d-b4b7d9f53a8f)
+
+
 #DATABASE
+
 #Login Table
+
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/4800c23b-f2e7-4815-860a-33d8490e302f)
+
 #Airways Table
+
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/eca722ea-918e-4322-bd45-46ea03df5ed0)
+
 #Passenger Table
+
 ![image](https://github.com/RakshanaS1707/AIRLINE-RESERVATION-SYSTEM-JSP-/assets/117162224/fd1a7a78-902f-4857-acfe-8c1b0da851fa)
